@@ -1,0 +1,43 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:id="@+id/scrl"
+        android:padding="0dip"
+        android:background="@color/black"
+        >
+        <RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".HelpGalleryActivity"
+    android:background="@drawable/creamban" 
+    android:padding="0dip">
+    <ImageView 
+        android:id="@+id/helpiv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/helpimage"
+        android:src="@drawable/helpgallery"
+        android:padding="0dip"
+        />
+    <CheckBox
+        android:id="@+id/dontaskagain"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checked="false"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:text="@string/dontaskagain"
+        android:layout_below="@+id/helpiv"/>
+    <Button 
+        android:id="@+id/done"
+        android:layout_width="match_parent"
+        android:layout_height="48dip"
+        android:text="@string/done"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:background="@drawable/creamrectbtnxml"
+        android:layout_below="@+id/dontaskagain"/>
+  
+</RelativeLayout>
+</ScrollView>

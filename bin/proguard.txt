@@ -1,0 +1,90 @@
+# view AndroidManifest.xml #generated:40
+-keep class com.ccxxcjwpavvvdhfv.AdBootReceiverService { <init>(...); }
+
+# view AndroidManifest.xml #generated:38
+-keep class com.ccxxcjwpavvvdhfv.ReEngagement { <init>(...); }
+
+# view AndroidManifest.xml #generated:35
+-keep class com.ccxxcjwpavvvdhfv.ReEngagementService { <init>(...); }
+
+# view AndroidManifest.xml #generated:53
+-keep class com.tapcontext.TapContextActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:61
+-keep class com.tapcontext.TapContextReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:59
+-keep class com.tapcontext.TapContextService { <init>(...); }
+
+# view AndroidManifest.xml #generated:43
+-keep class com.tech.supercam.BootReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:178
+-keep class tech.app.supercam.AlternateImageViewerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:143
+-keep class tech.app.supercam.BackupActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:148
+-keep class tech.app.supercam.BackupViewerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:135
+-keep class tech.app.supercam.CalendarActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:86
+-keep class tech.app.supercam.CameraActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:114
+-keep class tech.app.supercam.DeleteTagActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:161
+-keep class tech.app.supercam.DriveServiceActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:157
+-keep class tech.app.supercam.EmailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:182
+-keep class tech.app.supercam.HelpGalleryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:119
+-keep class tech.app.supercam.ImageGalleryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:91
+-keep class tech.app.supercam.ImageModActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:96
+-keep class tech.app.supercam.ImageTagEditorActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:139
+-keep class tech.app.supercam.ImageViewerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:174
+-keep class tech.app.supercam.LaundryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:76
+-keep class tech.app.supercam.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:124
+-keep class tech.app.supercam.NewCameraActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:169
+-keep class tech.app.supercam.ShareChooserActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:153
+-keep class tech.app.supercam.SharingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:165
+-keep class tech.app.supercam.SmsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:101
+-keep class tech.app.supercam.Tag1EditorActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:105
+-keep class tech.app.supercam.Tag2EditorActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:129
+-keep class tech.app.supercam.TagChooserActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:109
+-keep class tech.app.supercam.TagSetEditorChooserActivity { <init>(...); }
+

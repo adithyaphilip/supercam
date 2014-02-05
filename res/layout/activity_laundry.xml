@@ -1,0 +1,35 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="0dip"
+    android:paddingLeft="0dip"
+    android:paddingRight="0dip"
+    android:paddingTop="0dip"
+    android:background="@drawable/creamban"
+    tools:context=".LaundryActivity" >
+
+    <RelativeLayout
+        android:id="@+id/titleban"
+        android:layout_width="match_parent"
+        android:layout_height="40dip"
+        android:paddingBottom="5dip" 
+        android:background="@drawable/creamban">
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/title_activity_laundry"
+            android:layout_centerInParent="true"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+    </RelativeLayout>
+    <Button 
+        android:id="@+id/removelaundry"
+        android:layout_width="match_parent"
+        android:layout_height="40dip" 
+        android:text="@string/remove"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/creamrectbtnxml"/>
+</RelativeLayout>
